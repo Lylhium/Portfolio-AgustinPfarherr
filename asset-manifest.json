@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio-AgustinPfarherr/static/css/main.5c3406ea.chunk.css",
+    "main.css": "/Portfolio-AgustinPfarherr/static/css/main.51f26142.chunk.css",
     "main.js": "/Portfolio-AgustinPfarherr/static/js/main.f1540f9b.chunk.js",
     "main.js.map": "/Portfolio-AgustinPfarherr/static/js/main.f1540f9b.chunk.js.map",
     "runtime-main.js": "/Portfolio-AgustinPfarherr/static/js/runtime-main.2faaaab4.js",
@@ -10,7 +10,7 @@
     "static/js/3.2ab2fa04.chunk.js": "/Portfolio-AgustinPfarherr/static/js/3.2ab2fa04.chunk.js",
     "static/js/3.2ab2fa04.chunk.js.map": "/Portfolio-AgustinPfarherr/static/js/3.2ab2fa04.chunk.js.map",
     "index.html": "/Portfolio-AgustinPfarherr/index.html",
-    "static/css/main.5c3406ea.chunk.css.map": "/Portfolio-AgustinPfarherr/static/css/main.5c3406ea.chunk.css.map",
+    "static/css/main.51f26142.chunk.css.map": "/Portfolio-AgustinPfarherr/static/css/main.51f26142.chunk.css.map",
     "static/js/2.a9f2057a.chunk.js.LICENSE.txt": "/Portfolio-AgustinPfarherr/static/js/2.a9f2057a.chunk.js.LICENSE.txt",
     "static/media/address.a01cb8cc.png": "/Portfolio-AgustinPfarherr/static/media/address.a01cb8cc.png",
     "static/media/email.a49e0158.png": "/Portfolio-AgustinPfarherr/static/media/email.a49e0158.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.2faaaab4.js",
     "static/js/2.a9f2057a.chunk.js",
-    "static/css/main.5c3406ea.chunk.css",
+    "static/css/main.51f26142.chunk.css",
     "static/js/main.f1540f9b.chunk.js"
   ]
 }
