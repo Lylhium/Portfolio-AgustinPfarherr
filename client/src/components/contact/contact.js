@@ -5,6 +5,8 @@ import '../contact/contact.css'
 import Phone from '../../assets/phone.png'
 import Email from '../../assets/email.png'
 import Address from '../../assets/address.png'
+import Linkedin from '../../assets/linkedin.png'
+import Github from '../../assets/github.png'
 //emailJS
 import emailjs from 'emailjs-com';
 //sweetalert
@@ -55,8 +57,16 @@ const Contact = () => {
                       Agustinpfarherr@gmail.com
                    </div>
                    <div className='c-info-item'>
+                      <img src= {Linkedin} className='c-icon'/>
+                       <a href={'https://www.linkedin.com/in/agust%C3%ADn-pfarherr-623188211/'} style={{color:'white'}}>Linkedin</a>
+                   </div>
+                   <div className='c-info-item'>
+                      <img src= {Github} className='c-icon'/>
+                       <a href={'https://github.com/Lylhium?tab=repositories'} style={{color:'white'}}>GitHub</a>
+                   </div>
+                   <div className='c-info-item'>
                       <img src= {Address} className='c-icon'/>
-                    Capital Federal , Argentina
+                      <a href={'https://goo.gl/maps/2Hs3EV9E2NQaFARk6'} style={{color:'white'}}>La Paternal, Capital Federal , Argentina</a>
                    </div>      
                  </div>
              </div>
