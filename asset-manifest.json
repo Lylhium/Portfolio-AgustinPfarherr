@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-AgustinPfarherr/static/css/main.51f26142.chunk.css",
-    "main.js": "/Portfolio-AgustinPfarherr/static/js/main.f1540f9b.chunk.js",
-    "main.js.map": "/Portfolio-AgustinPfarherr/static/js/main.f1540f9b.chunk.js.map",
+    "main.js": "/Portfolio-AgustinPfarherr/static/js/main.0fa79852.chunk.js",
+    "main.js.map": "/Portfolio-AgustinPfarherr/static/js/main.0fa79852.chunk.js.map",
     "runtime-main.js": "/Portfolio-AgustinPfarherr/static/js/runtime-main.2faaaab4.js",
     "runtime-main.js.map": "/Portfolio-AgustinPfarherr/static/js/runtime-main.2faaaab4.js.map",
     "static/js/2.a9f2057a.chunk.js": "/Portfolio-AgustinPfarherr/static/js/2.a9f2057a.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2faaaab4.js",
     "static/js/2.a9f2057a.chunk.js",
     "static/css/main.51f26142.chunk.css",
-    "static/js/main.f1540f9b.chunk.js"
+    "static/js/main.0fa79852.chunk.js"
   ]
 }
