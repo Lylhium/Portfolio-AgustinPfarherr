@@ -2,7 +2,7 @@
     height: 100vh;
     display: flex;
     align-items: center;
-    background-color:  #1F1D36;
+    background-color:  #071927;
   }
   
   .a-left {
@@ -18,14 +18,16 @@
     flex: 1;
   }
   h1{
-      color: #E9A6A6;
+    background-image: linear-gradient(#FA7268,#C62368);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 
   .a-card.bg {
     position: absolute;
     top: 50px;
     left: 50px;
-    background-color: #3F3351;
+    background-image: linear-gradient(#FA7268,#C62368);
   }
   
   .a-card {
@@ -111,4 +113,11 @@
     .a-right{
       padding: 20px;
     }
-}
+  }
+    .coco-icon{
+      width: 50px;
+       height: 50px;
+       margin-right: 20px;
+       }
+
+  
